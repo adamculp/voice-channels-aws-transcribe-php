@@ -64,7 +64,7 @@ nexmo link:app YOUR_NUMBER YOUR_APPLICATION_ID
 
 ### Update Environment
 
-Rename the provided `.env.dist` file to `.env` and update the values as needed from `AWS` and `Vonage`.
+Rename the provided `.env.default` file to `.env` and update the values as needed from `AWS` and `Vonage`.
 
 ```env
 APP_ID=voice-aws-transcribe-php
